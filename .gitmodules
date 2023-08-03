@@ -1,0 +1,3 @@
+[submodule "alx-sy"]
+	path = alx-sy
+	url = https://github.com/malcolmbuluku/alx-system_engineering-devops.git
